@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "libro JSON 2",
+        "author": "Javascript",
+        "tags": [
+            "Drama"
+        ],
+        "sold": 1
+    }
+]
